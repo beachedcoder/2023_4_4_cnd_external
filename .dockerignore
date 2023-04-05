@@ -1,0 +1,8 @@
+.git
+.gitignore
+test
+logs
+log
+tmp
+yaml
+*.yaml
